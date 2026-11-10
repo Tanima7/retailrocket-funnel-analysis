@@ -54,7 +54,9 @@ The project leverages the public **RetailRocket** dataset (raw data excluded fro
 5. **SQL & Power BI Delivery:** Write modular SQL queries for core KPIs and construct an interactive Power BI dashboard (`.pbix`).
 
 ---
+## Power BI Dashboard
 
+[Download the Interactive Power BI Dashboard]((https://drive.google.com/drive/folders/1pnPqYEKDqMCXItr3ru-VRxuqYbm5OqKb?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto))
 ## 📁 Project Structure
 
 ```text
