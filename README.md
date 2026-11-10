@@ -59,25 +59,25 @@ The project leverages the public **RetailRocket** dataset (raw data excluded fro
 This interactive dashboard analyses the RetailRocket e-commerce clickstream dataset across five pages.
 
 ## 1. Executive Summary
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](dashboard/screenshots/executive_summary.png)
 
 ## 2. Funnel Leakage
-![Funnel Leakage](screenshots/funnel_leakage.png)
+![Funnel Leakage](dashboard/screenshots/funnel_leakage.png)
 
 ## 3. Customer Segments
-![Customer Segments](screenshots/customer_segments.png)
+![Customer Segments](dashboard/screenshots/customer_segments.png)
 
 ## 4. Time Intelligence
-![Time Intelligence](screenshots/time_intelligence.png)
+![Time Intelligence](dashboard/screenshots/time_intelligence.png)
 
 ## 5. Business Recommendations
-![Business Recommendations](screenshots/business_recommendations.png)
-
-[Download the Interactive Power BI Dashboard](https://drive.google.com/drive/folders/1pnPqYEKDqMCXItr3ru-VRxuqYbm5OqKb?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+![Business Recommendations](dashboard/screenshots/business_recommendations.png)
 
 ## Interactive Dashboard
 
-[Download the Power BI Dashboard](YOUR_GOOGLE_DRIVE_LINK)
+[Download the Interactive Power BI Dashboard](https://drive.google.com/drive/folders/1pnPqYEKDqMCXItr3ru-VRxuqYbm5OqKb?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+
+
 
 ## 📁 Project Structure
 
